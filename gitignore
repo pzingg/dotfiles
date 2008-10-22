@@ -10,5 +10,6 @@ db/schema.rb
 config/app_config.rb
 config/app_config.yml
 config/database.yml
+config/smtp.yml
 doc/api
 doc/app
