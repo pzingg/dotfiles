@@ -11,5 +11,6 @@ config/app_config.rb
 config/app_config.yml
 config/database.yml
 config/smtp.yml
+config/ldap.yml
 doc/api
 doc/app
