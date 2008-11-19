@@ -5,6 +5,7 @@
 *.sqlite3-journal
 log/*
 tmp/*
+data/*
 db/*.db
 db/schema.rb
 config/app_config.rb
